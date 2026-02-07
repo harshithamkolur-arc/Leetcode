@@ -9,7 +9,7 @@ public:
     }
     int findPermutationDifference(string s, string t) {
         int diff = 0;
-        int len = s.length();
+        int len = s.length(); // or t.length() both the string length is same
         int s_freq[26] = {0};
         int t_freq[26] = {0};
         for (int i = 0; i < len; i++) {
