@@ -6,6 +6,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0567-permutation-in-string) |
 | [3794-reverse-string-prefix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
