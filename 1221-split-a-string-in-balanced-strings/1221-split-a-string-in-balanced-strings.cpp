@@ -14,7 +14,6 @@ public:
                 j++;
             }
             if (count_R == count_L) {
-                cout<<"Hi"<<endl;
                 ans++;
                 count_R = 0;
                 count_L = 0;
