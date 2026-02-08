@@ -2,26 +2,24 @@ class Solution {
 public:
     int balancedStringSplit(string s) {
         int ans = 0;
-        for (int i = 0; i < s.length(); i++) {
-            int count_R = 0;
-            int count_L = 0;
-            int win_idx = i;
-            while (win_idx < s.length()) {
-                if (s[win_idx] == 'R') {
-                    count_R++;
-                    win_idx++;
-                    i++;
-                } else {
-                    count_L++;
-                    win_idx++;
-                    i++;
-                }
-                if (count_R == count_L) {
-                    ans++;
-                }
+        int count_R = 0;
+        int count_L = 0;
+        int j = 0;
+        while (j < s.length()) {
+            if (s[j] == 'R') {
+                count_R++;
+                j++;
+            } else {
+                count_L++;
+                j++;
+            }
+            if (count_R == count_L) {
+                cout<<"Hi"<<endl;
+                ans++;
+                count_R = 0;
+                count_L = 0;
             }
         }
-
         return ans;
     }
 };
