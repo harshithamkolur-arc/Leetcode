@@ -9,6 +9,7 @@ public:
             if(m.find(sec)!=m.end()){
                 ans.push_back(i);
                 ans.push_back(m[sec]);
+                break;
             }
             m[first]=i;
         }
