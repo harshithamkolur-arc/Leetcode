@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0567-permutation-in-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3146-permutation-difference-between-two-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
