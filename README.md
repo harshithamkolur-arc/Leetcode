@@ -29,6 +29,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3280-convert-date-to-binary](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3280-convert-date-to-binary) |
 ## Hash Table
 |  |
@@ -53,6 +55,7 @@
 | [0001-two-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0567-permutation-in-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Sliding Window
 |  |
@@ -82,6 +85,7 @@
 | [0054-spiral-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
