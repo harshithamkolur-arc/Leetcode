@@ -16,7 +16,7 @@ public:
                 s.insert(grid[i][j]);
             }
         }
-        req_sum = ((n * n) * ((n * n) + 1)) / 2;
+        req_sum = (n * n) * (n * n + 1) / 2;
         b = req_sum - grid_sum + a;
         ans.push_back(b);
         return ans;
