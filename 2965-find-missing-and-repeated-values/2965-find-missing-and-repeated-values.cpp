@@ -3,10 +3,8 @@ public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
         vector<int> ans;
         unordered_set<int> s;
-        int grid_sum = 0;
-        int req_sum = 0;
-        int a;
-        int b;
+        int grid_sum = 0, req_sum = 0;
+        int a, b;
         int n = grid.size();
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
