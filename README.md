@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0443-string-compression) |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
