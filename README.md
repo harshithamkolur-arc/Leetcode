@@ -37,6 +37,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Simulation
 |  |
@@ -60,6 +61,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3280-convert-date-to-binary) |
 ## Hash Table
 |  |
