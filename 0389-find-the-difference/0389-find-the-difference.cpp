@@ -1,7 +1,7 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        /* Use XOR of optimal solution
+        //Use XOR of optimal solution (refer the commented code)
         unordered_map<char, int> freq;
         for (char c : s) {
             freq[c]++;
@@ -12,8 +12,8 @@ public:
                 return c;
             }
         }
-        return ' ';*/
-
+        return ' ';
+    /*
         int result = 0;
         for (int i = 0; i < s.size(); i++) {
             result ^= s[i];
@@ -21,6 +21,6 @@ public:
         for (int i = 0; i < t.size(); i++) {
             result ^= t[i];
         }
-        return result;
+        return result; */
     }
 };
