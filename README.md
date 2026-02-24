@@ -6,6 +6,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0567-permutation-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0567-permutation-in-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -86,6 +88,7 @@
 | ------- |
 | [0078-subsets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0090-subsets-ii) |
+| [0389-find-the-difference](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
@@ -117,6 +120,7 @@
 | ------- |
 | [0015-3sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0018-4sum) |
+| [0389-find-the-difference](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0389-find-the-difference) |
 | [2974-minimum-number-game](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
