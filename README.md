@@ -35,6 +35,7 @@
 | [0090-subsets-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0090-subsets-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0509-fibonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -79,6 +81,7 @@
 | [0389-find-the-difference](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0567-permutation-in-string) |
+| [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2418-sort-the-people](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -99,6 +102,7 @@
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Greedy
 |  |
