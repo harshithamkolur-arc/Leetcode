@@ -30,6 +30,7 @@
 | [0015-3sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0078-subsets) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0090-subsets-ii) |
 ## Heap (Priority Queue)
