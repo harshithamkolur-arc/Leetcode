@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0054-spiral-matrix) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0037-sudoku-solver) |
 | [0389-find-the-difference](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0567-permutation-in-string) |
@@ -125,6 +127,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -166,6 +169,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0078-subsets) |
