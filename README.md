@@ -68,6 +68,7 @@
 | [1920-build-array-from-permutation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2974-minimum-number-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -233,6 +234,7 @@
 | [0141-linked-list-cycle](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
