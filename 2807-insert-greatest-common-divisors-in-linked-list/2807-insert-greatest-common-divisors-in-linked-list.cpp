@@ -23,10 +23,12 @@ public:
         ListNode *curr = head;
         ListNode *nxt = head->next;
         while(nxt != NULL){
-            ListNode *node = new ListNode(divisor(curr->val,nxt->val));
+            ListNode *node = new ListNode(divisor(curr->val,nxt->val)); // create a new node 
+            // adding the new node to the linked list
             node->next = nxt;
             curr->next = node;
 
+            // upgrading the curr and the nxt ptr
             nxt = nxt->next;
             curr = node->next;
         }
