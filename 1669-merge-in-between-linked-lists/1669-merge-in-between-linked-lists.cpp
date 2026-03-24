@@ -14,15 +14,13 @@ public:
         ListNode* ptr1 = list1;
         ListNode* ptr2 = list1;
         ListNode* tail = list2;
-        int countA = 0;
-        int countB = 0;
-        while (countA < a - 1) {
-            ptr1 = ptr1->next;
-            countA++;
-        }
-        while (countB <= b) {
+        int count = 0;
+        while (count <= b) {
+            if(count < a-1){
+                ptr1 = ptr1->next;
+            }
             ptr2 = ptr2->next;
-            countB++;
+            count++;
         }
         while (tail->next != NULL) {
             tail = tail->next;
