@@ -86,6 +86,7 @@
 | [0141-linked-list-cycle](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -249,6 +251,7 @@
 | [0141-linked-list-cycle](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -260,4 +263,8 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
