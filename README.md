@@ -22,6 +22,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2325-decode-the-message](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2325-decode-the-message) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2418-sort-the-people](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3110-score-of-a-string) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [0078-subsets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0216-combination-sum-iii) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -286,6 +289,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3174-clear-digits](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3174-clear-digits) |
 ## Depth-First Search
 |  |
