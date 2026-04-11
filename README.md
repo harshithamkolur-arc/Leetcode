@@ -52,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1441-build-an-array-with-stack-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -287,6 +289,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
