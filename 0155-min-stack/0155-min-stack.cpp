@@ -1,3 +1,4 @@
+// Alternative way; TC = O(1); SC = O(n) 
 class MinStack {
 public:
     stack<long long int> st;
@@ -35,6 +36,8 @@ public:
 
     int getMin() { return minVal; }
 };
+
+// Alternative way; TC = O(1); SC = O(2*n) 
 /*
 class MinStack {
 public:
