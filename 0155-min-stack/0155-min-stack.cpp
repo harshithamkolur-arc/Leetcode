@@ -1,4 +1,4 @@
-// Alternative way; TC = O(1); SC = O(n) 
+// Alternative way; TC = O(1); SC = O(n)  formula: val'(val to be stored in stack) = 2 * val - minVal
 class MinStack {
 public:
     stack<long long int> st;
