@@ -130,6 +130,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
