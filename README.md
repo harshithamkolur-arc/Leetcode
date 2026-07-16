@@ -186,6 +186,7 @@
 | ------- |
 | [0078-subsets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -418,6 +420,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0654-maximum-binary-tree) |
@@ -437,6 +440,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0654-maximum-binary-tree) |
