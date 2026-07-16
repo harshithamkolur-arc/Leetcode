@@ -361,6 +361,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Doubly-Linked List
@@ -406,6 +407,7 @@
 | [0654-maximum-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -415,6 +417,7 @@
 | [0654-maximum-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
@@ -425,5 +428,6 @@
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
