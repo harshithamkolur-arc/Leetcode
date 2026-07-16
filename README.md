@@ -367,6 +367,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -419,6 +420,7 @@
 | [0654-maximum-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -436,6 +438,7 @@
 | [0654-maximum-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
