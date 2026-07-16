@@ -86,6 +86,7 @@
 | [2326-spiral-matrix-iv](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2418-sort-the-people](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2574-left-and-right-sum-differences](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -279,6 +280,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2574-left-and-right-sum-differences](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
