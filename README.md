@@ -97,6 +97,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
@@ -117,6 +118,7 @@
 | [3174-clear-digits](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3174-clear-digits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
