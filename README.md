@@ -81,6 +81,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2974-minimum-number-game) |
@@ -122,6 +123,7 @@
 | [0567-permutation-in-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
@@ -209,6 +211,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2418-sort-the-people) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
