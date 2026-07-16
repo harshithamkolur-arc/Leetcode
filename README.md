@@ -153,6 +153,7 @@
 | [3516-find-closest-person](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3945-digit-frequency-score](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
