@@ -21,6 +21,7 @@
 | [1678-goal-parser-interpretation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2000-reverse-prefix-of-word](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -73,6 +74,7 @@
 | [1672-richest-customer-wealth](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1720-decode-xored-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -276,6 +278,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Dynamic Programming
 |  |
 | ------- |
