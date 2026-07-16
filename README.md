@@ -128,6 +128,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2413-smallest-even-multiple](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -317,6 +318,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
