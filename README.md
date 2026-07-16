@@ -7,6 +7,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0443-string-compression) |
@@ -287,6 +288,7 @@
 | [0078-subsets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0257-binary-tree-paths) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
 |  |
@@ -368,6 +370,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -423,6 +426,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -444,6 +448,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
