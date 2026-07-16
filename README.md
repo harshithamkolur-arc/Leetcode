@@ -356,6 +356,7 @@
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -395,8 +396,14 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
