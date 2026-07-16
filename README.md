@@ -361,6 +361,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -411,6 +412,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -427,6 +429,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -448,6 +451,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
