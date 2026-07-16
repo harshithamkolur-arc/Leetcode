@@ -94,6 +94,7 @@
 | [3467-transform-array-by-parity](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [2326-spiral-matrix-iv](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -499,4 +501,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
