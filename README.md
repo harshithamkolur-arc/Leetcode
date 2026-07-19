@@ -112,6 +112,7 @@
 | [0657-robot-return-to-origin](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1603-design-parking-system](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -225,6 +226,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -435,6 +437,7 @@
 | [0225-implement-stack-using-queues](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
