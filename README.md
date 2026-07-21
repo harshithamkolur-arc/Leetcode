@@ -97,6 +97,7 @@
 | [2974-minimum-number-game](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2974-minimum-number-game) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3285-find-indices-of-stable-mountains](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3467-transform-array-by-parity) |
