@@ -82,6 +82,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1816-truncate-sentence) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -167,6 +168,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2235-add-two-integers) |
@@ -566,4 +568,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
