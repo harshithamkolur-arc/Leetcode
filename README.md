@@ -168,6 +168,7 @@
 | [0002-add-two-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
