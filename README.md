@@ -71,6 +71,7 @@
 | [1288-remove-covered-intervals](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -126,6 +127,7 @@
 | [0054-spiral-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0682-baseball-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1920-build-array-from-permutation) |
