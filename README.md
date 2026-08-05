@@ -99,6 +99,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2367-number-of-arithmetic-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -167,6 +168,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -230,6 +232,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2325-decode-the-message](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2325-decode-the-message) |
+| [2367-number-of-arithmetic-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -399,6 +402,7 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2367-number-of-arithmetic-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Linked List
 |  |
 | ------- |
