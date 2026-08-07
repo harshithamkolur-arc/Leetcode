@@ -78,6 +78,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1534-count-good-triplets) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -402,6 +403,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1534-count-good-triplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
