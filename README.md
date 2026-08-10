@@ -124,6 +124,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3895-count-digit-appearances) |
@@ -152,6 +153,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -266,6 +268,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
 | ------- |
