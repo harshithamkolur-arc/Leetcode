@@ -70,6 +70,7 @@
 | [0654-maximum-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0912-sort-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -187,6 +188,7 @@
 | [0002-add-two-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1266-minimum-time-visiting-all-points](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -616,6 +618,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Game Theory
 |  |
