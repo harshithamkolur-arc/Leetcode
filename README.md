@@ -82,6 +82,7 @@
 | [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1534-count-good-triplets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1572-matrix-diagonal-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -320,6 +321,7 @@
 | [0054-spiral-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1572-matrix-diagonal-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
