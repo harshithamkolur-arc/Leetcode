@@ -107,6 +107,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -156,6 +157,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3174-clear-digits) |
@@ -322,6 +324,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2326-spiral-matrix-iv](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
