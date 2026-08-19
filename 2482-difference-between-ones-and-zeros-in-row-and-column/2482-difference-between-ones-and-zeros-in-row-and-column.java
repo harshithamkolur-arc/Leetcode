@@ -27,14 +27,9 @@ class Solution {
         
         for(int i=0;i<row_size;i++){
             System.out.println(rowOnes[i] +" "+ rowZeros[i]);
-        }/*
-        System.out.println(".......");
-        for(int i=0;i<col_size;i++){
-            System.out.println(colZeros[i]);
-        }*/
+        }
         for(int i=0;i<row_size;i++){
             for(int j=0;j<col_size;j++){
-                //System.out.println(rowOnes[i] +" "+ colOnes[j] +" "+ rowZeros[i] +" "+ colZeros[j]);
                 grid[i][j] = rowOnes[i] + colOnes[j] - rowZeros[i] - colZeros[j];
             }
         }
