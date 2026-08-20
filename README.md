@@ -26,6 +26,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -255,6 +256,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2325-decode-the-message](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
