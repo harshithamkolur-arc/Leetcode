@@ -199,6 +199,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -302,6 +303,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0134-gas-station) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
