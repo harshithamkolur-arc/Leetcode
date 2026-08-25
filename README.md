@@ -74,6 +74,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0832-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0912-sort-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -159,6 +160,7 @@
 | [0054-spiral-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1603-design-parking-system) |
@@ -196,6 +198,7 @@
 | [0443-string-compression](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -301,6 +304,7 @@
 | [0090-subsets-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1720-decode-xored-array) |
@@ -344,6 +348,7 @@
 | [0054-spiral-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
