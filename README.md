@@ -148,6 +148,7 @@
 | [3683-earliest-time-to-finish-one-task](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -285,6 +286,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
