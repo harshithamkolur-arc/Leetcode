@@ -157,6 +157,7 @@
 | [3895-count-digit-appearances](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
 | ------- |
