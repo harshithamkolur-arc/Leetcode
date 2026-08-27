@@ -191,6 +191,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
@@ -265,6 +266,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3959-check-good-integer) |
 ## Hash Table
 |  |
 | ------- |
