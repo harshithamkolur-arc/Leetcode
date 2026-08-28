@@ -106,6 +106,7 @@
 | [1816-truncate-sentence](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1816-truncate-sentence) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -394,6 +395,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1859-sorting-the-sentence](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -689,4 +691,8 @@
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1859-sorting-the-sentence) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
