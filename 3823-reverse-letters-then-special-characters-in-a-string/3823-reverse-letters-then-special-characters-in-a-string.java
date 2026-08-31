@@ -10,13 +10,6 @@ class Solution {
         }
         Collections.reverse(lowerCase);
         Collections.reverse(splChar);
-        /*
-        if(!lowerCase.isEmpty()){
-            for(char ch : lowerCase){
-                System.out.println(ch);
-            }
-            
-        }*/
         StringBuilder sb = new StringBuilder(s);
         int caseIdx = 0;
         int charIdx = 0;
