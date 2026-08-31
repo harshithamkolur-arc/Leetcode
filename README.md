@@ -114,6 +114,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -349,6 +350,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Binary Search
