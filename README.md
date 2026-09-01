@@ -247,6 +247,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
