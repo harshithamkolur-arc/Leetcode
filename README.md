@@ -169,6 +169,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Simulation
@@ -434,6 +435,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
