@@ -13,12 +13,12 @@ class Solution {
                 else if (s.charAt(j) == 'U')
                     pos[0]--;
                 else if (s.charAt(j) == 'D')
-                    pos[0]++;
+                    pos[0]++;       
                 if (pos[0] < 0 || pos[0] >= n || pos[1] < 0 || pos[1] >= n)
                     break;  
-                count++;        
+                count++;
             }
-             ans[i] = count;
+            ans[i] = count;
         }
         return ans;
     }
