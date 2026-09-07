@@ -176,6 +176,7 @@
 | [3895-count-digit-appearances](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3917-count-indices-with-opposite-parity](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Simulation
