@@ -88,6 +88,7 @@
 | [0804-unique-morse-code-words](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0832-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -417,6 +418,7 @@
 | [0561-array-partition](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -506,6 +508,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Enumeration
@@ -723,6 +726,7 @@
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
