@@ -168,6 +168,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -340,6 +341,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -481,6 +483,7 @@
 | [0509-fibonacci-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -535,6 +538,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
