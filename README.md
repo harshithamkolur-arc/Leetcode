@@ -136,6 +136,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2367-number-of-arithmetic-triplets](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2418-sort-the-people) |
@@ -204,6 +205,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -272,6 +274,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -562,6 +565,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -752,4 +756,8 @@
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
