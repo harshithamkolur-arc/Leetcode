@@ -12,11 +12,9 @@ class Solution {
         List<Integer> arr = new ArrayList<>();
         Set<Integer> set = new HashSet<>();
         for(int num : nums){
-            arr.add(reverse(num));
+            int reverse_dig = reverse(num);
             set.add(num);
-        }
-        for(Integer num : arr){
-            set.add(num);
+            set.add(reverse_dig);
         }
         return set.size();
     }
