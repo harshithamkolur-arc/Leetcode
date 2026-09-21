@@ -81,6 +81,7 @@
 | [0216-combination-sum-iii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0396-rotate-function](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0002-add-two-numbers) |
+| [0396-rotate-function](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0788-rotated-digits) |
@@ -488,6 +490,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0396-rotate-function](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/harshithamkolur-arc/Leetcode/tree/master/0788-rotated-digits) |
 ## Recursion
