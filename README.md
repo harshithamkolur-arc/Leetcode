@@ -177,6 +177,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -309,6 +310,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshithamkolur-arc/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
