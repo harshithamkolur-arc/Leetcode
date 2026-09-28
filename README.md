@@ -780,4 +780,8 @@
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harshithamkolur-arc/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshithamkolur-arc/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
